@@ -1,0 +1,12 @@
+{
+  "name": "socket.io-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ctrly4sh/socket.io-node",
+  "author": "yashCK001 <yashtiwari.coderkube@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
