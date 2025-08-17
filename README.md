@@ -1,2 +1,5 @@
-# socket.io-node
-simple Web RTC node app using socket.io
+stuff i read.
+
+ongoing ?? 
+
+- [ ] **Attention Is All You Need** (2017) - Vaswani et al.
